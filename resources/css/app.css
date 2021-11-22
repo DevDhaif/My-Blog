@@ -1,0 +1,10 @@
+/* @import "~tailwindcss/base.css";
+@import "~tailwindcss/components.css";
+@import "~tailwindcss/utilities.css"; */
+.card {
+    /* @apply flex flex-col rounded-lg shadow-lg overflow-hidden; */
+    background-color: green;
+}
+.headlind{
+    @apply text-4xl leading-10 tracking-tight font-bold text-gray-900;
+}
