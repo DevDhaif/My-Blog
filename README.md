@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# My-Blog
-First Laravel Project
-=======
-<<<<<<< HEAD
-# My-Blog
-First Laravel Project
-=======
-<<<<<<< HEAD
 # My-Blog
 First Laravel Project
 =======
